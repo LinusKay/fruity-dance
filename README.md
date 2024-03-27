@@ -1,6 +1,6 @@
 # Fruity Dance Custom Sprites
 
-Repository for custom Fruit Dance animations
+Repository for custom animations for the FL Studio plugin Fruity Dance.
 
 ## Installation
 1. Download the respective sprite sheet PNG and meta TXT files for the desired animation
