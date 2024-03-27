@@ -12,3 +12,13 @@ Repository for custom animations for the FL Studio plugin Fruity Dance.
 ## SpinBird
 * Spin - he spin :) 
 * Held - he also spin :)
+
+## 3dConstruction
+* Jackhammer
+* Hammer wood
+* Hammer Gear
+* Measure
+* Sledgehammer
+* Grout
+* Murder
+* Held
